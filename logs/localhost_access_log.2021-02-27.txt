@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:19:01 +0530] "GET / HTTP/1.1" 200 11355
+0:0:0:0:0:0:0:1 - admin [27/Feb/2021:15:19:04 +0530] "GET /manager/html HTTP/1.1" 200 16387
+0:0:0:0:0:0:0:1 - admin [27/Feb/2021:15:19:27 +0530] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=364EF5BED22612EBE928AAEC56A59A03 HTTP/1.1" 200 18318
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:19:34 +0530] "GET /trailblazer-webservice/getContactInfo?id=office-service HTTP/1.1" 200 5
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:20:39 +0530] "GET /trailblazer-webservice/getContactInfo?id=office-service HTTP/1.1" 200 5
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:41:33 +0530] "GET /getContactInfo?id=office-service HTTP/1.1" 404 765
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:41:33 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:41:40 +0530] "GET /trailblazer-webservice/getContactInfo?id=office-service HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:42:17 +0530] "GET /trailblazer-webservice/findSeat HTTP/1.1" 400 341
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:15:42:28 +0530] "GET /trailblazer-webservice/findSeat?id=205 HTTP/1.1" 200 16
+0:0:0:0:0:0:0:1 - - [27/Feb/2021:16:01:07 +0530] "GET / HTTP/1.1" 200 11355
