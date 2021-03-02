@@ -2153,3 +2153,9 @@
 0:0:0:0:0:0:0:1 - - [01/Mar/2021:16:22:28 +0530] "GET /2b3e1faf89f94a4835397e7a43b4f77d.png HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [01/Mar/2021:16:22:36 +0530] "GET /trailblazer-webservice/api/findSeat?id=dgsdgs HTTP/1.1" 500 179
 0:0:0:0:0:0:0:1 - - [01/Mar/2021:16:22:40 +0530] "GET /trailblazer-webservice/api/getFoodMenuImage HTTP/1.1" 200 75
+0:0:0:0:0:0:0:1 - - [01/Mar/2021:22:51:05 +0530] "GET /main.bundle.js HTTP/1.1" 200 568577
+0:0:0:0:0:0:0:1 - - [01/Mar/2021:22:51:09 +0530] "GET /images/teams.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2021:22:51:09 +0530] "GET /images/view-food-menu.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2021:22:51:09 +0530] "GET /images/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/Mar/2021:22:51:13 +0530] "GET /trailblazer-webservice/api/findSeat?id=map HTTP/1.1" 500 179
+0:0:0:0:0:0:0:1 - - [01/Mar/2021:22:51:16 +0530] "GET /trailblazer-webservice/api/getFoodMenuImage HTTP/1.1" 200 75

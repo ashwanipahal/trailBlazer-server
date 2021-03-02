@@ -451,3 +451,48 @@
 01-Mar-2021 16:11:19.004 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
 01-Mar-2021 16:11:19.039 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
 01-Mar-2021 16:11:19.040 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+01-Mar-2021 22:50:58.352 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.43
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jan 28 2021 20:25:45 UTC
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.43.0
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.10+8-LTS-162
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43
+01-Mar-2021 22:50:58.355 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/conf/logging.properties
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+01-Mar-2021 22:50:58.367 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+01-Mar-2021 22:50:58.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+01-Mar-2021 22:50:58.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+01-Mar-2021 22:50:58.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+01-Mar-2021 22:50:58.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43
+01-Mar-2021 22:50:58.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43
+01-Mar-2021 22:50:58.368 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/temp
+01-Mar-2021 22:50:58.369 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ashpayal/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+01-Mar-2021 22:50:58.591 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+01-Mar-2021 22:50:58.616 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [414] milliseconds
+01-Mar-2021 22:50:58.653 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+01-Mar-2021 22:50:58.653 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.43]
+01-Mar-2021 22:50:58.665 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/trailblazer-webservice.war]
+01-Mar-2021 22:51:00.099 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+01-Mar-2021 22:51:02.083 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/trailblazer-webservice.war] has finished in [3,418] ms
+01-Mar-2021 22:51:02.084 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/docs]
+01-Mar-2021 22:51:02.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/docs] has finished in [13] ms
+01-Mar-2021 22:51:02.098 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/manager]
+01-Mar-2021 22:51:02.126 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/manager] has finished in [28] ms
+01-Mar-2021 22:51:02.126 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/examples]
+01-Mar-2021 22:51:02.273 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/examples] has finished in [147] ms
+01-Mar-2021 22:51:02.274 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/ROOT]
+01-Mar-2021 22:51:02.286 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/ROOT] has finished in [12] ms
+01-Mar-2021 22:51:02.287 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/host-manager]
+01-Mar-2021 22:51:02.302 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/ashpayal/Documents/sapient/apache-tomcat-9.0.43/webapps/host-manager] has finished in [15] ms
+01-Mar-2021 22:51:02.305 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+01-Mar-2021 22:51:02.313 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3696] milliseconds
